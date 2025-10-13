@@ -1,2 +1,3 @@
 # java
-exercícios de java pelo curso em vídeo
+Repositório para guardar meus exercícios de Java. 
+Estou aprendendo a linguagem e os exercícios são básicos, planejo aprofundar com o tempo.
