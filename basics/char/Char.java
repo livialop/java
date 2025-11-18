@@ -4,9 +4,14 @@ public class Char {
 
         char c = 1;
 
-        for (int i = 1; i<=100; i++) {
+        char interrogacao = 0x00E1;
+
+        for (int i = 1; i<=500; i++) {
             c += (char) i;
             System.out.println(c);
         }
+
+        System.out.println(interrogacao);
+
     }
 }
